@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/rentSFSU_2.38dde8c6.png"
   },
   {
-    "revision": "02288523875d09aa48e1",
-    "url": "/static/css/main.b655c662.chunk.css"
+    "revision": "b69ce03d44dbb2de6028",
+    "url": "/static/css/main.e49e1921.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/rentSFSU_1.2357edb9.png"
   },
   {
-    "revision": "02288523875d09aa48e1",
-    "url": "/static/js/main.e294d9bd.chunk.js"
+    "revision": "b69ce03d44dbb2de6028",
+    "url": "/static/js/main.472a6956.chunk.js"
   },
   {
     "revision": "33f6cdd28cbe6538ec5b6eb385e831d2",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/prof-pic.829d0e15.jpg"
   },
   {
-    "revision": "678a9a9072b0f65fd9b0fa4778991f88",
+    "revision": "e87feda066864cc43d337a93add01fef",
     "url": "/index.html"
   }
 ];
