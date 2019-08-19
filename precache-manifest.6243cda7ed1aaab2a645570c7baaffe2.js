@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "799d58bd7ea86b8910a14bc37bfcdfda",
-    "url": "/static/media/match_1.799d58bd.PNG"
+    "revision": "38dde8c6db965585f647fd540c1af19c",
+    "url": "/static/media/rentSFSU_2.38dde8c6.png"
   },
   {
-    "revision": "afca0fd5520ea6991961",
-    "url": "/static/css/main.468f2874.chunk.css"
+    "revision": "35b4b9941f73e6528e2a",
+    "url": "/static/css/main.d2c65884.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "52ce52829f5d44ded3b1",
-    "url": "/static/js/2.589389b7.chunk.js"
+    "revision": "9d22bb2be2dd956ee3c9",
+    "url": "/static/js/2.523e46b7.chunk.js"
   },
   {
     "revision": "11ffd2f4d6c558ebbbfcff0f677f8f86",
@@ -60,16 +60,16 @@ self.__precacheManifest = [
     "url": "/static/media/dash_2.b55bab41.PNG"
   },
   {
-    "revision": "afca0fd5520ea6991961",
-    "url": "/static/js/main.8a013620.chunk.js"
+    "revision": "799d58bd7ea86b8910a14bc37bfcdfda",
+    "url": "/static/media/match_1.799d58bd.PNG"
   },
   {
     "revision": "63a9b0a3ae6122d559707c83e4ecc410",
     "url": "/static/media/match_2.63a9b0a3.PNG"
   },
   {
-    "revision": "38dde8c6db965585f647fd540c1af19c",
-    "url": "/static/media/rentSFSU_2.38dde8c6.png"
+    "revision": "35b4b9941f73e6528e2a",
+    "url": "/static/js/main.78630fdd.chunk.js"
   },
   {
     "revision": "33f6cdd28cbe6538ec5b6eb385e831d2",
@@ -96,6 +96,22 @@ self.__precacheManifest = [
     "url": "/static/media/postman.dd4aaba4.PNG"
   },
   {
+    "revision": "c43b20e4a8f5caa9d2d95610801622fa",
+    "url": "/static/media/Resume.c43b20e4.pdf"
+  },
+  {
+    "revision": "2770e59c8ef2f7a1a0c21df63c19566c",
+    "url": "/static/media/pdf_icon.2770e59c.png"
+  },
+  {
+    "revision": "6e45e3f2181b51b3f7ba64b36710db3b",
+    "url": "/static/media/nodeIcon.6e45e3f2.png"
+  },
+  {
+    "revision": "9d201577a5ab9ff16ecd39a4d9e1b586",
+    "url": "/static/media/reactIcon.9d201577.png"
+  },
+  {
     "revision": "c35b9f1978ced170994b5fef61f5bcca",
     "url": "/static/media/homepage_2.c35b9f19.PNG"
   },
@@ -116,7 +132,7 @@ self.__precacheManifest = [
     "url": "/static/media/portrait.f6660944.jpeg"
   },
   {
-    "revision": "16b19a1c2b213660e5fa44468efe58bd",
+    "revision": "4e1adf007f71a64b0bcea8e9aacbc9a3",
     "url": "/index.html"
   }
 ];
