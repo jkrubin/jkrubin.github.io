@@ -1,5 +1,5 @@
 {
-  "main.css": "/static/css/main.c8f1cb4f.chunk.css",
+  "main.css": "/static/css/main.eb281e20.chunk.css",
   "main.js": "/static/js/main.5e83ada7.chunk.js",
   "main.js.map": "/static/js/main.5e83ada7.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -7,9 +7,9 @@
   "static/js/2.ade04fe4.chunk.js": "/static/js/2.ade04fe4.chunk.js",
   "static/js/2.ade04fe4.chunk.js.map": "/static/js/2.ade04fe4.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.6083148b4f05a35fbee2fd319b9e9c1f.js": "/precache-manifest.6083148b4f05a35fbee2fd319b9e9c1f.js",
+  "precache-manifest.b7c1cdea7e84d878e2281d8dcbf76a36.js": "/precache-manifest.b7c1cdea7e84d878e2281d8dcbf76a36.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.c8f1cb4f.chunk.css.map": "/static/css/main.c8f1cb4f.chunk.css.map",
+  "static/css/main.eb281e20.chunk.css.map": "/static/css/main.eb281e20.chunk.css.map",
   "static/media/Document.PNG": "/static/media/Document.eb13baaa.PNG",
   "static/media/Fields.PNG": "/static/media/Fields.5950a0a8.PNG",
   "static/media/PlaneGame_1.png": "/static/media/PlaneGame_1.83c4f28e.png",
