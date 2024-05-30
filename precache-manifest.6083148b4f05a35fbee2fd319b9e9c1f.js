@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "03f6a2b94d198e3289d4",
-    "url": "/static/css/main.8c7fb437.chunk.css"
+    "revision": "e4774ead58cf31b839a2",
+    "url": "/static/css/main.c8f1cb4f.chunk.css"
   },
   {
-    "revision": "03f6a2b94d198e3289d4",
-    "url": "/static/js/main.7e1338bd.chunk.js"
+    "revision": "e4774ead58cf31b839a2",
+    "url": "/static/js/main.5e83ada7.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "3161428f78779d796771",
-    "url": "/static/js/2.d218c856.chunk.js"
+    "revision": "4363c79698fc4dcfc537",
+    "url": "/static/js/2.ade04fe4.chunk.js"
   },
   {
     "revision": "11ffd2f4d6c558ebbbfcff0f677f8f86",
@@ -84,12 +84,16 @@ self.__precacheManifest = [
     "url": "/static/media/PlaneGame_4.b7e8e981.png"
   },
   {
-    "revision": "a8e199ec41a6f909eed018d685e3dd6c",
-    "url": "/static/media/arrow.a8e199ec.png"
+    "revision": "d9157a59d71940395639f2d2953b65ac",
+    "url": "/static/media/Process_1.d9157a59.PNG"
   },
   {
-    "revision": "d22c18d9ba1789941e58c3729bef48f9",
-    "url": "/static/media/hamburger.d22c18d9.png"
+    "revision": "d95158e3635c6eaae884e4aea531f593",
+    "url": "/static/media/Process_2.d95158e3.PNG"
+  },
+  {
+    "revision": "a8e199ec41a6f909eed018d685e3dd6c",
+    "url": "/static/media/arrow.a8e199ec.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -100,20 +104,12 @@ self.__precacheManifest = [
     "url": "/static/media/postman.dd4aaba4.PNG"
   },
   {
-    "revision": "ff3c0b9a7986ce197eff1ba5a7d28353",
-    "url": "/static/media/Resume.ff3c0b9a.pdf"
+    "revision": "eb13baaab3857e7d141ce6a23fc88b3d",
+    "url": "/static/media/Document.eb13baaa.PNG"
   },
   {
-    "revision": "2770e59c8ef2f7a1a0c21df63c19566c",
-    "url": "/static/media/pdf_icon.2770e59c.png"
-  },
-  {
-    "revision": "6e45e3f2181b51b3f7ba64b36710db3b",
-    "url": "/static/media/nodeIcon.6e45e3f2.png"
-  },
-  {
-    "revision": "9d201577a5ab9ff16ecd39a4d9e1b586",
-    "url": "/static/media/reactIcon.9d201577.png"
+    "revision": "5950a0a8ea1d2f7b77894c37d17081f4",
+    "url": "/static/media/Fields.5950a0a8.PNG"
   },
   {
     "revision": "c35b9f1978ced170994b5fef61f5bcca",
@@ -128,11 +124,15 @@ self.__precacheManifest = [
     "url": "/static/media/PlaneGame_1.83c4f28e.png"
   },
   {
+    "revision": "d22c18d9ba1789941e58c3729bef48f9",
+    "url": "/static/media/hamburger.d22c18d9.png"
+  },
+  {
     "revision": "f6660944ac30fdbbd7e10315d7a71e8b",
     "url": "/static/media/portrait.f6660944.jpeg"
   },
   {
-    "revision": "9fa5f2e47684487c77c54e072b5b9b3b",
+    "revision": "30a4018137137c29041d6802b8952682",
     "url": "/index.html"
   }
 ];
